@@ -21,11 +21,13 @@ The analysis is based on a comprehensive dataset containing information on fligh
 ![Power_Query](https://github.com/user-attachments/assets/eaddbe84-0bbb-4c2e-a8de-2a0ebc57a52c)
 ![Model](https://github.com/user-attachments/assets/d752bf4e-7e93-4487-b6c7-9c520fa4cacb)
 
-![Page-1JPG](https://github.com/user-attachments/assets/994804f5-0b44-4417-b830-823d14291521)
+![Page-1JPG](https://github.com/user-attachments/assets/6d4deb88-98c1-4099-a089-961ac66bc5c7)
 
-![Page-2](https://github.com/user-attachments/assets/1ae0ea4a-7a14-4b88-98c5-87ead1a43212)
+![Page-2](https://github.com/user-attachments/assets/eb65d339-4751-4106-99b9-b110e850fe68)
 
-![Page-3](https://github.com/user-attachments/assets/5a315b0b-8b3d-4715-bea2-0c21a479f1f3)
+![Page-3](https://github.com/user-attachments/assets/4e3fc4d5-9ab3-47b3-b71b-41d36a7e5bd7)
+
+
 
 
 
